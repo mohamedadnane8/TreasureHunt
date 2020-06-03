@@ -1,0 +1,17 @@
+3
+forest 0
+You are in a forest. 
+You are in an enchanted forest. You see trees and grass. You can go south.
+(south) front 1
+front 5
+You are in front of a dark cave.
+You are in front of a dark cave. The cave is a small hole in the side of a heavily wooded hill. 
+There are thick trees in every other direction except the path to the south. You can go in the cave, or go back south.
+(north) forest 2
+(cave) cave 2 
+cave 3
+You are in a dark cave. 
+You are in a daaaaaaaaark cave. You can see a light at the entry where you came in. You can go out.
+(out) front 2
+*diamond* 5 10
+*dirham* 1 9
